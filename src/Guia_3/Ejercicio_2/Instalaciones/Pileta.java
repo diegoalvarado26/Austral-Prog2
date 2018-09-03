@@ -5,7 +5,7 @@ public class Pileta extends Instalacion {
 
     @Override
     public void setInstalacionName() {
-        nombre_instalacion = this.getClass().getSimpleName();
+        nombre_instalacion = (String) this.getClass().getSimpleName();
     }
 
     @Override
@@ -13,11 +13,7 @@ public class Pileta extends Instalacion {
         return nombre_instalacion;
     }
 
-    public void crearClase(String nombre_instalacion, int id_prof, int sociosU){
-        
-    }
-
-    public void inscribirClase(int id_socio){
-
+    public void crearClase(String nombre_clase, String nombre_instalacion, int prof_id, int sociosU){
+        Clase clase_nueva = new Clase(nombre_clase, prof_id, sociosU);
     }
 }
