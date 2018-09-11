@@ -1,4 +1,4 @@
-package Guia_1;
+package Guia_1.Ejercicio_3;
 
 public class Point2D {
 

@@ -1,6 +1,6 @@
-package Guia_2;
+package Guia_2.Ejercicio_5;
 
-public class Square {
+public class Square { //Ejercicio 5
 
     private double lado;
 

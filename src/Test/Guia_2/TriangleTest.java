@@ -1,6 +1,8 @@
 package Guia_2;
 
-import Guia_1.Point2D;
+import Guia_1.Ejercicio_3.Point2D;
+import Guia_2.Ejercicio_3.Recta;
+import Guia_2.Ejercicio_3.Triangle;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

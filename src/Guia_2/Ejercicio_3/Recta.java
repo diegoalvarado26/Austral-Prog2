@@ -1,6 +1,6 @@
-package Guia_2;
+package Guia_2.Ejercicio_3;
 
-import Guia_1.Point2D;
+import Guia_1.Ejercicio_3.Point2D;
 
 public class Recta {
 

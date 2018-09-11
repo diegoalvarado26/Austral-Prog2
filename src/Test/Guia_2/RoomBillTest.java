@@ -1,5 +1,6 @@
 package Guia_2;
 
+import Guia_2.Ejercicio_4.RoomBill;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

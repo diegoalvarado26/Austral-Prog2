@@ -1,6 +1,4 @@
-package Guia_2;
-
-import Guia_1.Point2D;
+package Guia_2.Ejercicio_3;
 
 public class Triangle { //Ejercicio 3.
     /*

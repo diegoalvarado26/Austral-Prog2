@@ -1,4 +1,4 @@
-package Guia_1;
+package Guia_1.Ejercicio_1;
 
 public class SubeCard {
 

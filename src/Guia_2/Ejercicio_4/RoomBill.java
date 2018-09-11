@@ -1,4 +1,4 @@
-package Guia_2;
+package Guia_2.Ejercicio_4;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,4 +1,6 @@
-package Guia_1;
+package Guia_1.Ejercicio_4;
+
+import Guia_1.Ejercicio_3.Point2D;
 
 public class circulo {
 

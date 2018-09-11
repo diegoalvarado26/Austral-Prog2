@@ -1,4 +1,4 @@
-package Guia_2;
+package Guia_2.Ejercicio_1;
 
 public class BankAccount { //Ejercicio 1
 
@@ -15,6 +15,7 @@ Indique: ¿Qué tipo de agregación tiene la clase Banco con sus componentes?
     private int cbu;
     private double saldo;
 
+    public BankAccount(){}
     public BankAccount(int cbu, double saldo){
         this.cbu = cbu;
         this.saldo = saldo;

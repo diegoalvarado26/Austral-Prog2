@@ -1,4 +1,6 @@
-package Guia_2;
+package Guia_2.Ejercicio_1;
+
+import Guia_2.Ejercicio_1.BankAccount;
 
 import java.util.ArrayList;
 

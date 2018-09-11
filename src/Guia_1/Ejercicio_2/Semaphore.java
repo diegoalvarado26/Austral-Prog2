@@ -1,4 +1,4 @@
-package Guia_1;
+package Guia_1.Ejercicio_2;
 
 public class Semaphore {
     //TODO preguntarle a Bauti sobre esto.
