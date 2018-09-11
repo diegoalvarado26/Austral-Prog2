@@ -1,7 +1,5 @@
 package Guia_1;
 
-import org.junit.*;
-
 public class SubeCard {
 
     private double saldo;
@@ -19,8 +17,6 @@ public class SubeCard {
         saldo+=deposito_dinero;
         return saldo;
     }
-
-
 
     public double charge(float cargo_viaje){
         if (cargo_viaje <= 0){
