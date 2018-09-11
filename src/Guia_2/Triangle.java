@@ -28,7 +28,8 @@ RPTA: Composición.
     }
 
     public double area(){
-        return recta_1.modulus() * recta_2.modulus() * 0.5;
+
+        return (double) (Math.round(recta_1.modulus() * recta_2.modulus() * 0.5 * 1000d) / 1000d);
     }
 
     public double perimeter(){
